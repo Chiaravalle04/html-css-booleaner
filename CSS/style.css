@@ -31,6 +31,10 @@ h1 {
     color: #848484;
 }
 
+#date {
+    margin-bottom: 20px;
+}
+
 #author-name {
     color: #1baae6;
 }
@@ -38,4 +42,23 @@ h1 {
 .author-photo p {
     margin: 0;
     font-size: 13px;
+}
+
+.highlighted-content {
+    background-color: #ffff00;
+}
+
+ul {
+    padding-left: 15px;
+}
+
+th {
+    padding-right: 200px;
+    text-align: left;
+    background-color: #1aaae6;
+    color: #ffffff;
+}
+
+.row-table {
+    background-color: #b2e6f2;
 }
