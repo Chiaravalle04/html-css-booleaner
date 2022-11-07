@@ -15,3 +15,27 @@ header {
     margin-top: 80px;
     margin-left: 10px;
 }
+
+main {
+    margin: 8px;
+}
+
+h1 {
+    margin-bottom: 2px;
+    font-size: 40px;
+}
+
+.author p {
+    margin: 0;
+    font-size: 13px;
+    color: #848484;
+}
+
+#author-name {
+    color: #1baae6;
+}
+
+.author-photo p {
+    margin: 0;
+    font-size: 13px;
+}
